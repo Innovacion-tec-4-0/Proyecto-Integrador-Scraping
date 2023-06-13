@@ -1,3 +1,6 @@
 # trabajo_integrador Profesor Héctor Prado
 Integrantes:
-Cesar Lucas Martins
+
+* Cesar Lucas Martins
+
+* Ma. Victoria Urcola
