@@ -1,3 +1,3 @@
 # trabajo_integrador Profe Prado
 Integrantes :
-Ma. Victoria Urcola dni 28582890
+Ma. Victoria Urcola DNI 28582890
