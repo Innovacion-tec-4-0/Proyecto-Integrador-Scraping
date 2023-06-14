@@ -7,5 +7,5 @@ Integrantes:
 * Ma. Victoria Urcola
 * Carolina Alejandra Duarte
 * Ernesto Gaston Trejo
-* Ferreyra Santiago Nicolás
+* Santiago Nicolás Ferreyra
 
