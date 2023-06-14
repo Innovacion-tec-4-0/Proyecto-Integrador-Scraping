@@ -7,4 +7,6 @@ Integrantes:
 
 * Ma. Victoria Urcola
 
+* Ernesto Gaston Trejo
+
 
