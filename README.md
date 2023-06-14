@@ -8,4 +8,6 @@ Integrantes:
 * Ma. Victoria Urcola
 * Carolina Alejandra Duarte
 
+* Ernesto Gaston Trejo
+
 
