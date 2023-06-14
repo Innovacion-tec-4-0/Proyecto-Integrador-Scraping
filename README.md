@@ -4,10 +4,8 @@ Integrantes:
 
 
 * Cesar Lucas Martins
-
 * Ma. Victoria Urcola
 * Carolina Alejandra Duarte
-
 * Ernesto Gaston Trejo
-
+* Ferreyra Santiago Nicolás
 
