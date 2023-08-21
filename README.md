@@ -1,4 +1,4 @@
-# trabajo_integrador Profesor Héctor Prado
+# trabajo_integrador Profesor Kevin ARCE KESSLER
 Integrantes:
 
 
