@@ -1,11 +1,15 @@
 # trabajo_integrador Profesor Kevin ARCE KESSLER
 Integrantes:
 
+Duarte, Carolina Alejandra 
 
+Ferreyra, Santiago Nicolás 
 
-* Cesar Lucas Martins
-* Ma. Victoria Urcola
-* Carolina Alejandra Duarte
-* Ernesto Gaston Trejo
-* Santiago Nicolás Ferreyra
-* Ezequiel mathieu
+Martins, Cesar Lucas 
+
+Trejo, Ernesto Gaston 
+
+Urcola, Ma. Victoria
+
+Ex integrante : Mathieu, Ezequiel (Abandonó la tecnicatura)
+
