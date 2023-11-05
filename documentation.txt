@@ -1,0 +1,8 @@
+Realizo pruebas de Scraping. 
+Luego se realiaran tareas de analisis sobre lo scrapeado
+
+Antes de correr el codigo te tocará verificar los siguientes requisitos:
+1-Asegurarse de que el controlador del navegador conincida con la versión de navegador que manejas. 
+2-si no tienes instaladas las bibliotecas asegurate de correr en tu terminal: 
+  pip install -r requirements.txt
+  
