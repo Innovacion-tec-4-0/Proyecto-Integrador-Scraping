@@ -11,5 +11,3 @@ Trejo, Ernesto Gaston
 
 Urcola, Ma. Victoria
 
-Ex integrante : Mathieu, Ezequiel (Abandonó la tecnicatura)
-
